@@ -1,0 +1,9 @@
+*.pkl
+**/.DS_Store
+**/.vscode
+**/.claude
+# === Python 编译缓存 ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
